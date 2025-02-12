@@ -1,1 +1,2 @@
-# food-management-app
+# Food-Management-App
+Allows Food to manage
